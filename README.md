@@ -17,4 +17,4 @@ _comandi principali_
 `git push <remote> <ramo-locale>`
 
 **Aggiornare la copia locale del repository, allineandola con la versione remota**
-`git pull <remote> <ramo-locale>
+`git pull <remote> <ramo-locale>`
